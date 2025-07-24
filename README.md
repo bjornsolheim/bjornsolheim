@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @bjornsolheim
-- 👀 Interests: foundations of mathematics, mathematical physics, functional programming and computer formalized mathematics (Lean 4 and mathlib)
-- 🌱
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @bjornsolheim
+
+I am interested in things like 
+* foundations of mathematics
+* mathematical physics
+* type theory
+* computer formalized mathematics (Lean 4 and mathlib + coq)
+
 
 <!---
 bjornsolheim/bjornsolheim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
