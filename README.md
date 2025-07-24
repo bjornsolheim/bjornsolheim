@@ -2,10 +2,10 @@ Hi, I’m @bjornsolheim
 
 I am interested in things like 
 * foundations of mathematics
-* mathematical physics
-* type theory
+* formal logic and type theory
 * computer formalized mathematics (Lean 4 and mathlib + coq)
-
+* mathematical physics
+* theoretical physics
 
 <!---
 bjornsolheim/bjornsolheim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
