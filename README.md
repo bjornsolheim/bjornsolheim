@@ -3,7 +3,7 @@ Hi, I’m @bjornsolheim
 I am interested in things like 
 * foundations of mathematics
 * formal logic and type theory
-* computer formalized mathematics (Lean 4 and mathlib + coq)
+* computer formalized mathematics (Lean 4 and mathlib + Rocq formerly known as ...)
 * mathematical physics
 * theoretical physics
 
